@@ -43,3 +43,8 @@ journey
 4. In order to be able to send an email after an appointment is created, create a API KEY with SendGrid (https://sendgrid.com/) and add it to .env file
 
 ##Pictures 
+![Index Page](https://github.com/averenceanu/dRecords/blob/main/client/projectPictures/Screen%20Shot%202022-02-21%20at%206.08.33%20PM.png)
+![Work Bord](https://github.com/averenceanu/dRecords/blob/main/client/projectPictures/Screen%20Shot%202022-02-21%20at%206.10.54%20PM.png)
+![calendar](https://github.com/averenceanu/dRecords/blob/main/client/projectPictures/Screen%20Shot%202022-02-21%20at%206.11.33%20PM.png)
+![add Appointment](https://github.com/averenceanu/dRecords/blob/main/client/projectPictures/Screen%20Shot%202022-02-21%20at%206.11.45%20PM.png)
+![patientdetails](https://github.com/averenceanu/dRecords/blob/main/client/projectPictures/Screen%20Shot%202022-02-21%20at%206.12.18%20PM.png)
